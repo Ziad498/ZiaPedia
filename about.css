@@ -1,0 +1,26 @@
+p {
+    display: inline;
+}
+
+.aboutusp {
+  line-height: 4px;
+}
+
+#headerpar {
+  float: left;
+  border-style: double;
+  border-color: blue;
+  border-width: 3px;
+  margin: 0;
+  padding: 5px;
+  display: inline;
+  background-color: deepskyblue;
+}
+
+#idbold {
+  font-weight: bold;
+}
+
+#idbold2 {
+  font-weight: bold;
+}

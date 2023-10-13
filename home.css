@@ -1,0 +1,49 @@
+body {
+  background-color: tan;
+}
+
+ul {
+  list-style-type: none;
+  margin: 0;
+  padding: 0;
+  display: inline;
+}
+
+#headerdiv {
+  margin-left: 10px;
+  margin-top: 5px;
+}
+
+#logo {
+  width: 35%;
+  height: 35%;
+  float: left;
+  padding-right: 10px;
+}
+
+#logodiv {
+  display: inline;
+}
+
+#footerpar {
+  float: left;
+  border-style: double;
+  border-color: blue;
+}
+
+footer {
+position:absolute;
+bottom:0;
+}
+
+li {
+  float: left;
+  border-style: double;
+  border-color: blue;
+}
+
+a {
+  display: block;
+  padding: 8px;
+  background-color: deepskyblue;
+}
